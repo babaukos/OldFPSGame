@@ -1,0 +1,2646 @@
+fileFormatVersion: 2
+guid: 57f01028ba43f5c4381c8cf4122bcb9d
+timeCreated: 1556564000
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EHzvLs9_0
+    21300002: EHzvLs9_1
+    21300004: EHzvLs9_2
+    21300006: EHzvLs9_3
+    21300008: EHzvLs9_4
+    21300010: EHzvLs9_5
+    21300012: EHzvLs9_6
+    21300014: EHzvLs9_7
+    21300016: EHzvLs9_8
+    21300018: EHzvLs9_9
+    21300020: EHzvLs9_10
+    21300022: EHzvLs9_11
+    21300024: EHzvLs9_12
+    21300026: EHzvLs9_13
+    21300028: EHzvLs9_14
+    21300030: EHzvLs9_15
+    21300032: EHzvLs9_16
+    21300034: EHzvLs9_17
+    21300036: EHzvLs9_18
+    21300038: EHzvLs9_19
+    21300040: EHzvLs9_20
+    21300042: EHzvLs9_21
+    21300044: EHzvLs9_22
+    21300046: EHzvLs9_23
+    21300048: EHzvLs9_24
+    21300050: EHzvLs9_25
+    21300052: EHzvLs9_26
+    21300054: EHzvLs9_27
+    21300056: EHzvLs9_28
+    21300058: EHzvLs9_29
+    21300060: EHzvLs9_30
+    21300062: EHzvLs9_31
+    21300064: EHzvLs9_32
+    21300066: EHzvLs9_33
+    21300068: EHzvLs9_34
+    21300070: EHzvLs9_35
+    21300072: EHzvLs9_36
+    21300074: EHzvLs9_37
+    21300076: EHzvLs9_38
+    21300078: EHzvLs9_39
+    21300080: EHzvLs9_40
+    21300082: EHzvLs9_41
+    21300084: EHzvLs9_42
+    21300086: EHzvLs9_43
+    21300088: EHzvLs9_44
+    21300090: EHzvLs9_45
+    21300092: EHzvLs9_46
+    21300094: EHzvLs9_47
+    21300096: EHzvLs9_48
+    21300098: EHzvLs9_49
+    21300100: EHzvLs9_50
+    21300102: EHzvLs9_51
+    21300104: EHzvLs9_52
+    21300106: EHzvLs9_53
+    21300108: EHzvLs9_54
+    21300110: EHzvLs9_55
+    21300112: EHzvLs9_56
+    21300114: EHzvLs9_57
+    21300116: EHzvLs9_58
+    21300118: EHzvLs9_59
+    21300120: EHzvLs9_60
+    21300122: EHzvLs9_61
+    21300124: EHzvLs9_62
+    21300126: EHzvLs9_63
+    21300128: EHzvLs9_64
+    21300130: EHzvLs9_65
+    21300132: EHzvLs9_66
+    21300134: EHzvLs9_67
+    21300136: EHzvLs9_68
+    21300138: EHzvLs9_69
+    21300140: EHzvLs9_70
+    21300142: EHzvLs9_71
+    21300144: EHzvLs9_72
+    21300146: EHzvLs9_73
+    21300148: EHzvLs9_74
+    21300150: EHzvLs9_75
+    21300152: EHzvLs9_76
+    21300154: EHzvLs9_77
+    21300156: EHzvLs9_78
+    21300158: EHzvLs9_79
+    21300160: EHzvLs9_80
+    21300162: EHzvLs9_81
+    21300164: EHzvLs9_82
+    21300166: EHzvLs9_83
+    21300168: EHzvLs9_84
+    21300170: EHzvLs9_85
+    21300172: EHzvLs9_86
+    21300174: EHzvLs9_87
+    21300176: EHzvLs9_88
+    21300178: EHzvLs9_89
+    21300180: EHzvLs9_90
+    21300182: EHzvLs9_91
+    21300184: EHzvLs9_92
+    21300186: EHzvLs9_93
+    21300188: EHzvLs9_94
+    21300190: EHzvLs9_95
+    21300192: EHzvLs9_96
+    21300194: EHzvLs9_97
+    21300196: EHzvLs9_98
+    21300198: EHzvLs9_99
+    21300200: EHzvLs9_100
+    21300202: EHzvLs9_101
+    21300204: EHzvLs9_102
+    21300206: EHzvLs9_103
+    21300208: EHzvLs9_104
+    21300210: EHzvLs9_105
+    21300212: EHzvLs9_106
+    21300214: EHzvLs9_107
+    21300216: EHzvLs9_108
+    21300218: EHzvLs9_109
+    21300220: EHzvLs9_110
+    21300222: EHzvLs9_111
+    21300224: EHzvLs9_112
+    21300226: EHzvLs9_113
+    21300228: EHzvLs9_114
+    21300230: EHzvLs9_115
+    21300232: EHzvLs9_116
+    21300234: EHzvLs9_117
+    21300236: EHzvLs9_118
+    21300238: EHzvLs9_119
+    21300240: EHzvLs9_120
+    21300242: EHzvLs9_121
+    21300244: EHzvLs9_122
+    21300246: EHzvLs9_123
+    21300248: EHzvLs9_124
+    21300250: EHzvLs9_125
+    21300252: EHzvLs9_126
+    21300254: EHzvLs9_127
+    21300256: EHzvLs9_128
+    21300258: EHzvLs9_129
+    21300260: EHzvLs9_130
+    21300262: EHzvLs9_131
+    21300264: EHzvLs9_132
+    21300266: EHzvLs9_133
+    21300268: EHzvLs9_134
+    21300270: EHzvLs9_135
+    21300272: EHzvLs9_136
+    21300274: EHzvLs9_137
+    21300276: EHzvLs9_138
+    21300278: EHzvLs9_139
+    21300280: EHzvLs9_140
+    21300282: EHzvLs9_141
+    21300284: EHzvLs9_142
+    21300286: EHzvLs9_143
+    21300288: EHzvLs9_144
+    21300290: EHzvLs9_145
+    21300292: EHzvLs9_146
+    21300294: EHzvLs9_147
+    21300296: EHzvLs9_148
+    21300298: EHzvLs9_149
+    21300300: EHzvLs9_150
+    21300302: EHzvLs9_151
+    21300304: EHzvLs9_152
+    21300306: EHzvLs9_153
+    21300308: EHzvLs9_154
+    21300310: EHzvLs9_155
+    21300312: EHzvLs9_156
+    21300314: EHzvLs9_157
+    21300316: EHzvLs9_158
+    21300318: EHzvLs9_159
+    21300320: EHzvLs9_160
+    21300322: EHzvLs9_161
+    21300324: EHzvLs9_162
+    21300326: EHzvLs9_163
+    21300328: EHzvLs9_164
+    21300330: EHzvLs9_165
+    21300332: EHzvLs9_166
+    21300334: EHzvLs9_167
+    21300336: EHzvLs9_168
+    21300338: EHzvLs9_169
+    21300340: EHzvLs9_170
+    21300342: EHzvLs9_171
+    21300344: EHzvLs9_172
+    21300346: EHzvLs9_173
+    21300348: EHzvLs9_174
+    21300350: EHzvLs9_175
+    21300352: EHzvLs9_176
+    21300354: EHzvLs9_177
+    21300356: EHzvLs9_178
+    21300358: EHzvLs9_179
+    21300360: EHzvLs9_180
+    21300362: EHzvLs9_181
+    21300364: EHzvLs9_182
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EHzvLs9_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1050
+        width: 352
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1051
+        width: 317
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_2
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1044
+        width: 79
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_3
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1045
+        width: 74
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1029
+        width: 147
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 927
+        width: 294
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 935
+        width: 295
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_7
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 911
+        width: 166
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 799
+        width: 164
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 803
+        width: 139
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 805
+        width: 170
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_11
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 781
+        width: 144
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_12
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 776
+        width: 151
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_13
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 779
+        width: 127
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 620
+        width: 87
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_15
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 620
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 620
+        width: 82
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_17
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 620
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_18
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 620
+        width: 132
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_19
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 621
+        width: 139
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_20
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 697
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_21
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 621
+        width: 98
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 620
+        width: 154
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_23
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 621
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_24
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 429
+        width: 160
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_25
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 430
+        width: 133
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_26
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 582
+        width: 86
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_27
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 578
+        width: 86
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_28
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 549
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_29
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 558
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 428
+        width: 118
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_31
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 429
+        width: 160
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_32
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 544
+        width: 86
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_33
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 540
+        width: 86
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_34
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 498
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_35
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 494
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_36
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 524
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_37
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 495
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_38
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 518
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_39
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 427
+        width: 102
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_40
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 491
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_41
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 431
+        width: 211
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_42
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 305
+        width: 233
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_43
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 308
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_44
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 308
+        width: 172
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_45
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 309
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_46
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 309
+        width: 149
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_47
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 307
+        width: 149
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 183
+        width: 149
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_49
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 184
+        width: 149
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_50
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 185
+        width: 170
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_51
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 185
+        width: 167
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_52
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 265
+        width: 117
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_53
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 183
+        width: 144
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_54
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 179
+        width: 181
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_55
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 128
+        width: 131
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_56
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 130
+        width: 131
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_57
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 128
+        width: 131
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_58
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 135
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_59
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 131
+        width: 88
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_60
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 141
+        width: 88
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_61
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 138
+        width: 77
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_62
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 130
+        width: 86
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_63
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 135
+        width: 99
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 1026
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_65
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 42
+        width: 275
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_66
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 45
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_67
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 43
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_68
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 41
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_69
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 44
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_70
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 57
+        width: 99
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_71
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 95
+        width: 71
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_72
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 56
+        width: 79
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_73
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 62
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_74
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_75
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_76
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_77
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 27
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_78
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_79
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_80
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_81
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_82
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_83
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 27
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_84
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 27
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_85
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_86
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 27
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_87
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_88
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_89
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_90
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_91
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_92
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_93
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_94
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 27
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_95
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_96
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_97
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_98
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_99
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_100
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_101
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_102
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_103
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_104
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_105
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_106
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_108
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_109
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_110
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_111
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_112
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_113
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_114
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 12
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_115
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_116
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_117
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_118
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_119
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_120
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_121
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_122
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_123
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_124
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_125
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_126
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_127
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_128
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_129
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_130
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_131
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_132
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_133
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_134
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_135
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_136
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_137
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_138
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_139
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_140
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_141
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_142
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_143
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_144
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 12
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_145
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_146
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_147
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_148
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 10
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_149
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_150
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_151
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_152
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_153
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_154
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_155
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_156
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_157
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_158
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_159
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_160
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_161
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_162
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_163
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_164
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_165
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_166
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_167
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_168
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_169
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_170
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_171
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_172
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_173
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_174
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_175
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 12
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_176
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_177
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_178
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_179
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_180
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_181
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EHzvLs9_182
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: b81bab2526b78de4ea74aabf75e88a2b
+timeCreated: 1558114627
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 24096_0
+    21300002: 24096_1
+    21300004: 24096_2
+    21300006: 24096_3
+    21300008: 24096_4
+    21300010: Pig_Cop_0
+    21300012: Pig_Cop_1
+    21300014: Pig_Cop_2
+    21300016: Pig_Cop_3
+    21300018: Pig_Cop_4
+    21300020: Pig_Cop_5
+    21300022: Pig_Cop_6
+    21300024: Pig_Cop_7
+    21300026: Pig_Cop_8
+    21300028: Pig_Cop_9
+    21300030: Pig_Cop_10
+    21300032: Pig_Cop_11
+    21300034: Pig_Cop_12
+    21300036: Pig_Cop_13
+    21300038: Pig_Cop_14
+    21300040: Pig_Cop_15
+    21300042: Pig_Cop_16
+    21300044: Pig_Cop_17
+    21300046: Pig_Cop_18
+    21300048: Pig_Cop_19
+    21300050: Pig_Cop_20
+    21300052: Pig_Cop_21
+    21300054: Pig_Cop_22
+    21300056: Pig_Cop_23
+    21300058: Pig_Cop_24
+    21300060: Pig_Cop_25
+    21300062: Pig_Cop_26
+    21300064: Pig_Cop_27
+    21300066: Pig_Cop_28
+    21300068: Pig_Cop_29
+    21300070: Pig_Cop_30
+    21300072: Pig_Cop_31
+    21300074: Pig_Cop_32
+    21300076: Pig_Cop_33
+    21300078: Pig_Cop_34
+    21300080: Pig_Cop_35
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pig_Cop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 873
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 873
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 873
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 873
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 873
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_5
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 873
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_6
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 873
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_7
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 873
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 777
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 777
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 777
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 775
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 777
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 777
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_14
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 777
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_15
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 777
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_16
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 683
+        width: 214
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_17
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 689
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_18
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 597
+        width: 337
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_19
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 434
+        width: 83
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_20
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 438
+        width: 136
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_21
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 516
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_22
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 518
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_23
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 268
+        width: 95
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_24
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 346
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_25
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 346
+        width: 178
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_26
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 270
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_27
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 270
+        width: 130
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_28
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 298
+        width: 120
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_29
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 184
+        width: 221
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_30
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 94
+        width: 152
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_31
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 138
+        width: 145
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_32
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 56
+        width: 79
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_34
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 46
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pig_Cop_35
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 60
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

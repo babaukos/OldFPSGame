@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 87aa146d29c32234fba026ae518bb011
+timeCreated: 1556414722
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Daidoh Remix Round
+  fontNames:
+  - Daidoh Remix Round
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
